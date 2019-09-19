@@ -1,6 +1,4 @@
-Debut 12 aout 2019
-
-dDeux Jupyter Notebook A et B (2 manières de faire)  pour analyser les données. 
+Deux Jupyter Notebook A et B (2 manières de faire)  pour analyser les données. 
 
 
 Dans le Jupyter Notebook A, j’ai encodé avec TF-IDFou Doc2Vec et essayé les algos : régression logistique, Random Forest et  XGBoost. Je n’ai pas beaucoup modifié les paramètres par défaut. 
